@@ -25,7 +25,7 @@ JOBS = [
     'id': 4,
     'title': "Data Analyst", 
     'locaiton': 'San-Francisco, USA',
-    'salary': '$ 120 000'
+    'salary': '$ 180 000'
   }
 ]
 
